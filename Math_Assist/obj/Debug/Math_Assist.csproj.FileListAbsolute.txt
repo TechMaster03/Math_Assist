@@ -1,0 +1,10 @@
+C:\Users\Caleb.Grebill\source\repos\Math_Assist\Math_Assist\bin\Debug\Math_Assist.exe.config
+C:\Users\Caleb.Grebill\source\repos\Math_Assist\Math_Assist\bin\Debug\Math_Assist.exe
+C:\Users\Caleb.Grebill\source\repos\Math_Assist\Math_Assist\bin\Debug\Math_Assist.pdb
+C:\Users\Caleb.Grebill\source\repos\Math_Assist\Math_Assist\obj\Debug\Math_Assist.csprojAssemblyReference.cache
+C:\Users\Caleb.Grebill\source\repos\Math_Assist\Math_Assist\obj\Debug\Math_Assist.Math_Assist.resources
+C:\Users\Caleb.Grebill\source\repos\Math_Assist\Math_Assist\obj\Debug\Math_Assist.Properties.Resources.resources
+C:\Users\Caleb.Grebill\source\repos\Math_Assist\Math_Assist\obj\Debug\Math_Assist.csproj.GenerateResource.cache
+C:\Users\Caleb.Grebill\source\repos\Math_Assist\Math_Assist\obj\Debug\Math_Assist.csproj.CoreCompileInputs.cache
+C:\Users\Caleb.Grebill\source\repos\Math_Assist\Math_Assist\obj\Debug\Math_Assist.exe
+C:\Users\Caleb.Grebill\source\repos\Math_Assist\Math_Assist\obj\Debug\Math_Assist.pdb
