@@ -62,5 +62,19 @@ namespace Math_Assist
         {
             MessageBox.Show("Math Assist V0.1, Created by Caleb E. Grebill - 2/10/2021");
         }
+
+        private void btn_Clear_Click(object sender, EventArgs e)
+        {
+            lbl_Endpoint_1.Text = "";
+            lbl_Midpoint.Text = "";
+            lbl_Endpoint_2.Text = "";
+            lbl_Distance.Text = "";
+            txtbox_X1.Text = "";
+            txtbox_X2.Text = "";
+            txtbox_XM.Text = "";
+            txtbox_Y1.Text = "";
+            txtbox_Y2.Text = "";
+            txtbox_YM.Text = "";
+        }
     }
 }

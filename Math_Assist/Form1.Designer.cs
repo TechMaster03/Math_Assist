@@ -47,6 +47,7 @@ namespace Math_Assist
             this.lbl_Midpoint = new System.Windows.Forms.Label();
             this.lbl_Endpoint_2 = new System.Windows.Forms.Label();
             this.lbl_Distance = new System.Windows.Forms.Label();
+            this.btn_Clear = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -211,11 +212,22 @@ namespace Math_Assist
             this.lbl_Distance.TabIndex = 17;
             this.lbl_Distance.Text = "Distance";
             // 
+            // btn_Clear
+            // 
+            this.btn_Clear.Location = new System.Drawing.Point(188, 110);
+            this.btn_Clear.Name = "btn_Clear";
+            this.btn_Clear.Size = new System.Drawing.Size(40, 20);
+            this.btn_Clear.TabIndex = 18;
+            this.btn_Clear.Text = "Clear";
+            this.btn_Clear.UseVisualStyleBackColor = true;
+            this.btn_Clear.Click += new System.EventHandler(this.btn_Clear_Click);
+            // 
             // Math_Assist
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(334, 161);
+            this.Controls.Add(this.btn_Clear);
             this.Controls.Add(this.lbl_Distance);
             this.Controls.Add(this.lbl_Endpoint_2);
             this.Controls.Add(this.lbl_Midpoint);
@@ -237,7 +249,7 @@ namespace Math_Assist
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "Math_Assist";
-            this.Text = "Math Assist Version 0.1";
+            this.Text = "Math Assist Version 0.2";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -263,6 +275,7 @@ namespace Math_Assist
         private System.Windows.Forms.Label lbl_Midpoint;
         private System.Windows.Forms.Label lbl_Endpoint_2;
         private System.Windows.Forms.Label lbl_Distance;
+        private System.Windows.Forms.Button btn_Clear;
     }
 }
 
